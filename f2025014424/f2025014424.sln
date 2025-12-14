@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36804.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SpaceShooting", "SpaceShooting\SpaceShooting.pyproj", "{7253B450-CC49-42EC-B4A5-6B7DC2A188B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7253B450-CC49-42EC-B4A5-6B7DC2A188B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7253B450-CC49-42EC-B4A5-6B7DC2A188B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4170A322-5DF9-4B92-971A-67636DAA6A7A}
+	EndGlobalSection
+EndGlobal
